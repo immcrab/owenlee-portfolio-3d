@@ -69,19 +69,26 @@ live from the browser.
 ### GitHub Pages (current setup)
 
 `.github/workflows/deploy-pages.yml` builds the app and deploys `out/` to
-GitHub Pages on every push to `main`. One-time setup:
+GitHub Pages on every push to `main`. It's currently live at
+**https://immcrab.github.io/owenlee-portfolio-3d/**.
 
-1. Repo **Settings → Pages → Build and deployment → Source** = "GitHub Actions".
-2. Point `owenlee.xyz`'s DNS at GitHub Pages: an `A` record on the apex domain
-   to GitHub's Pages IPs (`185.199.108.153`, `.109.153`, `.110.153`,
-   `.111.153`), or a `CNAME` record if using a subdomain. `public/CNAME`
-   (committed) tells Pages which custom domain to serve.
-3. Once DNS resolves, tick "Enforce HTTPS" in the same Pages settings page.
+`owenlee.xyz` itself is already pointed at a different repo
+(`immcrab/owenlee.xyz`), so this site isn't on the custom domain yet. To move
+the domain over later:
+
+1. Disable Pages on `immcrab/owenlee.xyz` (Settings → Pages → Source → None),
+   or free up the domain there — GitHub only allows one repo per verified
+   custom domain per account.
+2. Add a `public/CNAME` file back to this repo containing `owenlee.xyz`.
+3. Repo **Settings → Pages → Custom domain** = `owenlee.xyz`, and point
+   `owenlee.xyz`'s DNS at GitHub Pages: an `A` record on the apex domain to
+   GitHub's Pages IPs (`185.199.108.153`, `.109.153`, `.110.153`, `.111.153`).
+4. Once DNS resolves, tick "Enforce HTTPS" in the same Pages settings page.
 
 ### Vercel (alternative)
 
 Works too — remove `output: "export"` from `next.config.ts` first (Vercel
-doesn't need the static export step) and point `owenlee.xyz` at Vercel via a
+doesn't need the static export step) and point a domain at Vercel via a
 `CNAME`/`A` record instead.
 
 ## Project structure
