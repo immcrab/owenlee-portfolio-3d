@@ -61,11 +61,28 @@ changes automatically.
 
 ## Deploying
 
-This is a static-friendly Next.js app — deploy it on Vercel (recommended) and
-point `owenlee.xyz` at it via a `CNAME`/`A` record from your DNS provider.
-No environment variables are required at runtime; the AI summaries are
-pre-generated at build/commit time, not fetched live from the browser (so no
-API key is ever exposed client-side).
+The app builds as a fully static site (`next.config.ts` sets `output: "export"`)
+so it doesn't need a Node server at runtime — no environment variables are
+required; the AI summaries are pre-generated at build/commit time, not fetched
+live from the browser.
+
+### GitHub Pages (current setup)
+
+`.github/workflows/deploy-pages.yml` builds the app and deploys `out/` to
+GitHub Pages on every push to `main`. One-time setup:
+
+1. Repo **Settings → Pages → Build and deployment → Source** = "GitHub Actions".
+2. Point `owenlee.xyz`'s DNS at GitHub Pages: an `A` record on the apex domain
+   to GitHub's Pages IPs (`185.199.108.153`, `.109.153`, `.110.153`,
+   `.111.153`), or a `CNAME` record if using a subdomain. `public/CNAME`
+   (committed) tells Pages which custom domain to serve.
+3. Once DNS resolves, tick "Enforce HTTPS" in the same Pages settings page.
+
+### Vercel (alternative)
+
+Works too — remove `output: "export"` from `next.config.ts` first (Vercel
+doesn't need the static export step) and point `owenlee.xyz` at Vercel via a
+`CNAME`/`A` record instead.
 
 ## Project structure
 
