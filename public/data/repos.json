@@ -1,8 +1,25 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-07-27T12:11:56.712Z",
+  "generatedAt": "2026-08-03T12:13:23.128Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
+    {
+      "id": "immcrab/plug-control",
+      "name": "plug-control",
+      "fullName": "immcrab/plug-control",
+      "url": "https://github.com/immcrab/plug-control",
+      "homepage": "https://immcrab.github.io/plug-control/",
+      "description": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
+      "aiSummary": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
+      "language": "Python",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 8,
+      "createdAt": "2026-08-02T04:02:25Z",
+      "updatedAt": "2026-08-02T04:04:10Z",
+      "pushedAt": "2026-08-02T04:03:55Z"
+    },
     {
       "id": "immcrab/ScribbleAI",
       "name": "ScribbleAI",
@@ -147,6 +164,23 @@
       "pushedAt": "2025-10-14T20:47:23Z"
     },
     {
+      "id": "immcrab/owenlee-portfolio-3d",
+      "name": "owenlee-portfolio-3d",
+      "fullName": "immcrab/owenlee-portfolio-3d",
+      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
+      "homepage": null,
+      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 42,
+      "createdAt": "2026-07-24T00:48:51Z",
+      "updatedAt": "2026-07-27T12:12:23Z",
+      "pushedAt": "2026-07-27T12:11:57Z"
+    },
+    {
       "id": "immcrab/the-odyssey-3d",
       "name": "the-odyssey-3d",
       "fullName": "immcrab/the-odyssey-3d",
@@ -213,23 +247,6 @@
       "createdAt": "2026-07-25T02:50:29Z",
       "updatedAt": "2026-07-25T02:56:02Z",
       "pushedAt": "2026-07-25T02:55:57Z"
-    },
-    {
-      "id": "immcrab/owenlee-portfolio-3d",
-      "name": "owenlee-portfolio-3d",
-      "fullName": "immcrab/owenlee-portfolio-3d",
-      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
-      "homepage": null,
-      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 40,
-      "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-07-24T01:31:58Z",
-      "pushedAt": "2026-07-24T01:31:54Z"
     },
     {
       "id": "immcrab/oscar-walker-cats",
@@ -453,6 +470,23 @@
       "pushedAt": "2025-06-11T03:11:35Z"
     },
     {
+      "id": "immcrab/vitrucam",
+      "name": "vitrucam",
+      "fullName": "immcrab/vitrucam",
+      "url": "https://github.com/immcrab/vitrucam",
+      "homepage": null,
+      "description": null,
+      "aiSummary": "No description available yet.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "size": 194,
+      "createdAt": "2026-08-03T01:01:01Z",
+      "updatedAt": "2026-08-03T03:05:03Z",
+      "pushedAt": "2026-08-03T03:04:59Z"
+    },
+    {
       "id": "immcrab/smaal-sharing",
       "name": "smaal-sharing",
       "fullName": "immcrab/smaal-sharing",
@@ -485,40 +519,6 @@
       "createdAt": "2025-08-21T20:55:02Z",
       "updatedAt": "2026-05-21T00:43:32Z",
       "pushedAt": "2026-05-21T00:43:28Z"
-    },
-    {
-      "id": "immcrab/chat.smaal.pro",
-      "name": "chat.smaal.pro",
-      "fullName": "immcrab/chat.smaal.pro",
-      "url": "https://github.com/immcrab/chat.smaal.pro",
-      "homepage": null,
-      "description": null,
-      "aiSummary": "No description available yet.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 1,
-      "size": 63,
-      "createdAt": "2026-01-28T22:40:22Z",
-      "updatedAt": "2026-04-29T01:32:08Z",
-      "pushedAt": "2026-04-29T01:32:04Z"
-    },
-    {
-      "id": "immcrab/beta.ol.xyz",
-      "name": "beta.ol.xyz",
-      "fullName": "immcrab/beta.ol.xyz",
-      "url": "https://github.com/immcrab/beta.ol.xyz",
-      "homepage": null,
-      "description": null,
-      "aiSummary": "No description available yet.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 6138,
-      "createdAt": "2026-04-04T21:36:39Z",
-      "updatedAt": "2026-04-26T07:28:55Z",
-      "pushedAt": "2026-04-26T07:28:51Z"
     }
   ]
 }
