@@ -1,25 +1,8 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-08-17T09:31:19.472Z",
+  "generatedAt": "2026-08-24T09:37:02.858Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
-    {
-      "id": "immcrab/plug-control",
-      "name": "plug-control",
-      "fullName": "immcrab/plug-control",
-      "url": "https://github.com/immcrab/plug-control",
-      "homepage": "https://immcrab.github.io/plug-control/",
-      "description": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
-      "aiSummary": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
-      "language": "Python",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 8,
-      "createdAt": "2026-08-02T04:02:25Z",
-      "updatedAt": "2026-08-02T04:04:10Z",
-      "pushedAt": "2026-08-02T04:03:55Z"
-    },
     {
       "id": "immcrab/ScribbleAI",
       "name": "ScribbleAI",
@@ -39,10 +22,27 @@
       ],
       "stars": 0,
       "forks": 0,
-      "size": 1522,
+      "size": 1523,
       "createdAt": "2026-05-30T00:22:00Z",
-      "updatedAt": "2026-06-18T00:35:54Z",
-      "pushedAt": "2026-06-18T00:35:51Z"
+      "updatedAt": "2026-08-18T04:26:57Z",
+      "pushedAt": "2026-08-18T04:26:50Z"
+    },
+    {
+      "id": "immcrab/plug-control",
+      "name": "plug-control",
+      "fullName": "immcrab/plug-control",
+      "url": "https://github.com/immcrab/plug-control",
+      "homepage": "https://immcrab.github.io/plug-control/",
+      "description": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
+      "aiSummary": "Local-network web control for a TP-Link smart plug (no cloud, no app).",
+      "language": "Python",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 8,
+      "createdAt": "2026-08-02T04:02:25Z",
+      "updatedAt": "2026-08-02T04:04:10Z",
+      "pushedAt": "2026-08-02T04:03:55Z"
     },
     {
       "id": "immcrab/GorillaCraftCompiled",
@@ -147,6 +147,40 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/scribble",
+      "name": "scribble",
+      "fullName": "immcrab/scribble",
+      "url": "https://github.com/immcrab/scribble",
+      "homepage": null,
+      "description": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
+      "aiSummary": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 1445,
+      "createdAt": "2026-08-18T03:48:20Z",
+      "updatedAt": "2026-08-24T02:53:52Z",
+      "pushedAt": "2026-08-24T02:53:35Z"
+    },
+    {
+      "id": "immcrab/ai-chat-site",
+      "name": "ai-chat-site",
+      "fullName": "immcrab/ai-chat-site",
+      "url": "https://github.com/immcrab/ai-chat-site",
+      "homepage": null,
+      "description": "Multi-model AI chat: GitHub Pages frontend + Node.js backend on a Raspberry Pi (Groq + xKiro)",
+      "aiSummary": "Multi-model AI chat: GitHub Pages frontend + Node.js backend on a Raspberry Pi (Groq + xKiro)",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 8,
+      "createdAt": "2026-08-17T17:05:56Z",
+      "updatedAt": "2026-08-17T17:26:04Z",
+      "pushedAt": "2026-08-17T17:24:12Z"
+    },
+    {
       "id": "immcrab/owenlee-portfolio-3d",
       "name": "owenlee-portfolio-3d",
       "fullName": "immcrab/owenlee-portfolio-3d",
@@ -158,10 +192,10 @@
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "size": 44,
+      "size": 45,
       "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-08-10T10:09:33Z",
-      "pushedAt": "2026-08-10T10:09:08Z"
+      "updatedAt": "2026-08-17T09:32:30Z",
+      "pushedAt": "2026-08-17T09:31:20Z"
     },
     {
       "id": "immcrab/the-odyssey-3d",
@@ -485,40 +519,6 @@
       "createdAt": "2026-08-03T01:01:01Z",
       "updatedAt": "2026-08-03T03:05:03Z",
       "pushedAt": "2026-08-03T03:04:59Z"
-    },
-    {
-      "id": "immcrab/smaal-sharing",
-      "name": "smaal-sharing",
-      "fullName": "immcrab/smaal-sharing",
-      "url": "https://github.com/immcrab/smaal-sharing",
-      "homepage": null,
-      "description": null,
-      "aiSummary": "No description available yet.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 6412,
-      "createdAt": "2026-07-05T00:27:25Z",
-      "updatedAt": "2026-07-06T02:07:42Z",
-      "pushedAt": "2026-07-06T02:07:39Z"
-    },
-    {
-      "id": "immcrab/imcrabiscool",
-      "name": "imcrabiscool",
-      "fullName": "immcrab/imcrabiscool",
-      "url": "https://github.com/immcrab/imcrabiscool",
-      "homepage": null,
-      "description": null,
-      "aiSummary": "No description available yet.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 45955,
-      "createdAt": "2025-08-21T20:55:02Z",
-      "updatedAt": "2026-05-21T00:43:32Z",
-      "pushedAt": "2026-05-21T00:43:28Z"
     }
   ]
 }
