@@ -1,8 +1,30 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-08-24T09:37:02.858Z",
+  "generatedAt": "2026-08-31T16:31:13.620Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
+    {
+      "id": "immcrab/scribble",
+      "name": "scribble",
+      "fullName": "immcrab/scribble",
+      "url": "https://github.com/immcrab/scribble",
+      "homepage": "https://scribbleai.dev/",
+      "description": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
+      "aiSummary": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude",
+        "scribble",
+        "scribbleai"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "size": 1864,
+      "createdAt": "2026-08-18T03:48:20Z",
+      "updatedAt": "2026-08-31T05:06:53Z",
+      "pushedAt": "2026-08-31T05:05:10Z"
+    },
     {
       "id": "immcrab/ScribbleAI",
       "name": "ScribbleAI",
@@ -147,21 +169,21 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
-      "id": "immcrab/scribble",
-      "name": "scribble",
-      "fullName": "immcrab/scribble",
-      "url": "https://github.com/immcrab/scribble",
+      "id": "immcrab/owenlee-portfolio-3d",
+      "name": "owenlee-portfolio-3d",
+      "fullName": "immcrab/owenlee-portfolio-3d",
+      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
       "homepage": null,
-      "description": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
-      "aiSummary": "Scribble — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
+      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
       "language": "TypeScript",
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "size": 1445,
-      "createdAt": "2026-08-18T03:48:20Z",
-      "updatedAt": "2026-08-24T02:53:52Z",
-      "pushedAt": "2026-08-24T02:53:35Z"
+      "size": 46,
+      "createdAt": "2026-07-24T00:48:51Z",
+      "updatedAt": "2026-08-24T09:39:06Z",
+      "pushedAt": "2026-08-24T09:37:04Z"
     },
     {
       "id": "immcrab/ai-chat-site",
@@ -179,23 +201,6 @@
       "createdAt": "2026-08-17T17:05:56Z",
       "updatedAt": "2026-08-17T17:26:04Z",
       "pushedAt": "2026-08-17T17:24:12Z"
-    },
-    {
-      "id": "immcrab/owenlee-portfolio-3d",
-      "name": "owenlee-portfolio-3d",
-      "fullName": "immcrab/owenlee-portfolio-3d",
-      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
-      "homepage": null,
-      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 45,
-      "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-08-17T09:32:30Z",
-      "pushedAt": "2026-08-17T09:31:20Z"
     },
     {
       "id": "immcrab/the-odyssey-3d",
