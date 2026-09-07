@@ -1,8 +1,42 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-08-31T16:31:13.620Z",
+  "generatedAt": "2026-09-07T14:35:53.147Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
+    {
+      "id": "immcrab/owen-card",
+      "name": "owen-card",
+      "fullName": "immcrab/owen-card",
+      "url": "https://github.com/immcrab/owen-card",
+      "homepage": null,
+      "description": "personal card - owenis.me",
+      "aiSummary": "personal card - owenis.me",
+      "language": "HTML",
+      "topics": [],
+      "stars": 2,
+      "forks": 0,
+      "size": 94,
+      "createdAt": "2026-09-06T19:10:22Z",
+      "updatedAt": "2026-09-07T02:00:30Z",
+      "pushedAt": "2026-09-07T02:00:26Z"
+    },
+    {
+      "id": "immcrab/exiftoolonline",
+      "name": "exiftoolonline",
+      "fullName": "immcrab/exiftoolonline",
+      "url": "https://github.com/immcrab/exiftoolonline",
+      "homepage": "https://exiftool.owenis.me",
+      "description": "Client-side image metadata inspector - reads EXIF/GPS/IPTC/XMP/ICC in your browser. https://exiftool.owenis.me",
+      "aiSummary": "Client-side image metadata inspector - reads EXIF/GPS/IPTC/XMP/ICC in your browser. https://exiftool.owenis.me",
+      "language": "HTML",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 117,
+      "createdAt": "2026-09-07T01:56:29Z",
+      "updatedAt": "2026-09-07T02:15:41Z",
+      "pushedAt": "2026-09-07T02:15:37Z"
+    },
     {
       "id": "immcrab/scribble",
       "name": "scribble",
@@ -20,10 +54,10 @@
       ],
       "stars": 0,
       "forks": 0,
-      "size": 1864,
+      "size": 2048,
       "createdAt": "2026-08-18T03:48:20Z",
-      "updatedAt": "2026-08-31T05:06:53Z",
-      "pushedAt": "2026-08-31T05:05:10Z"
+      "updatedAt": "2026-09-03T23:11:03Z",
+      "pushedAt": "2026-09-03T23:10:59Z"
     },
     {
       "id": "immcrab/ScribbleAI",
@@ -180,10 +214,10 @@
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "size": 46,
+      "size": 47,
       "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-08-24T09:39:06Z",
-      "pushedAt": "2026-08-24T09:37:04Z"
+      "updatedAt": "2026-08-31T16:40:15Z",
+      "pushedAt": "2026-08-31T16:31:14Z"
     },
     {
       "id": "immcrab/ai-chat-site",
@@ -490,40 +524,6 @@
       "createdAt": "2025-06-11T03:12:34Z",
       "updatedAt": "2025-06-11T03:12:38Z",
       "pushedAt": "2025-06-11T03:12:35Z"
-    },
-    {
-      "id": "immcrab/gpp.github.io",
-      "name": "gpp.github.io",
-      "fullName": "immcrab/gpp.github.io",
-      "url": "https://github.com/immcrab/gpp.github.io",
-      "homepage": null,
-      "description": "Gear Painter Program",
-      "aiSummary": "Gear Painter Program",
-      "language": null,
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 2,
-      "createdAt": "2025-06-11T03:11:23Z",
-      "updatedAt": "2025-06-11T03:11:39Z",
-      "pushedAt": "2025-06-11T03:11:35Z"
-    },
-    {
-      "id": "immcrab/vitrucam",
-      "name": "vitrucam",
-      "fullName": "immcrab/vitrucam",
-      "url": "https://github.com/immcrab/vitrucam",
-      "homepage": null,
-      "description": null,
-      "aiSummary": "No description available yet.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 1,
-      "forks": 0,
-      "size": 194,
-      "createdAt": "2026-08-03T01:01:01Z",
-      "updatedAt": "2026-08-03T03:05:03Z",
-      "pushedAt": "2026-08-03T03:04:59Z"
     }
   ]
 }
