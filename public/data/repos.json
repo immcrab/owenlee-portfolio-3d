@@ -1,6 +1,6 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-09-14T15:25:22.209Z",
+  "generatedAt": "2026-09-21T15:29:08.484Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
     {
@@ -34,8 +34,8 @@
       "forks": 0,
       "size": 3448,
       "createdAt": "2026-09-06T19:10:22Z",
-      "updatedAt": "2026-09-13T02:22:50Z",
-      "pushedAt": "2026-09-13T02:22:46Z"
+      "updatedAt": "2026-09-14T22:35:07Z",
+      "pushedAt": "2026-09-14T22:35:03Z"
     },
     {
       "id": "immcrab/immcrab.github.io",
@@ -237,6 +237,40 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/lucide-mirror",
+      "name": "lucide-mirror",
+      "fullName": "immcrab/lucide-mirror",
+      "url": "https://github.com/immcrab/lucide-mirror",
+      "homepage": null,
+      "description": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
+      "aiSummary": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
+      "language": "Shell",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 512,
+      "createdAt": "2026-09-12T18:40:34Z",
+      "updatedAt": "2026-09-21T02:56:36Z",
+      "pushedAt": "2026-09-21T02:56:32Z"
+    },
+    {
+      "id": "immcrab/owenlee-portfolio-3d",
+      "name": "owenlee-portfolio-3d",
+      "fullName": "immcrab/owenlee-portfolio-3d",
+      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
+      "homepage": null,
+      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 50,
+      "createdAt": "2026-07-24T00:48:51Z",
+      "updatedAt": "2026-09-14T15:25:30Z",
+      "pushedAt": "2026-09-14T15:25:23Z"
+    },
+    {
       "id": "immcrab/scribbleai-maintenance",
       "name": "scribbleai-maintenance",
       "fullName": "immcrab/scribbleai-maintenance",
@@ -269,40 +303,6 @@
       "createdAt": "2026-09-13T01:35:15Z",
       "updatedAt": "2026-09-13T02:15:17Z",
       "pushedAt": "2026-09-13T02:15:13Z"
-    },
-    {
-      "id": "immcrab/lucide-mirror",
-      "name": "lucide-mirror",
-      "fullName": "immcrab/lucide-mirror",
-      "url": "https://github.com/immcrab/lucide-mirror",
-      "homepage": null,
-      "description": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
-      "aiSummary": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
-      "language": "Shell",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 337,
-      "createdAt": "2026-09-12T18:40:34Z",
-      "updatedAt": "2026-09-12T18:40:50Z",
-      "pushedAt": "2026-09-12T18:40:46Z"
-    },
-    {
-      "id": "immcrab/owenlee-portfolio-3d",
-      "name": "owenlee-portfolio-3d",
-      "fullName": "immcrab/owenlee-portfolio-3d",
-      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
-      "homepage": null,
-      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 48,
-      "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-09-07T14:36:48Z",
-      "pushedAt": "2026-09-07T14:35:55Z"
     },
     {
       "id": "immcrab/ai-chat-site",
