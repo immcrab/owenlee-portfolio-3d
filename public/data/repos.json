@@ -1,6 +1,6 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-09-28T17:10:48.473Z",
+  "generatedAt": "2026-10-05T17:35:20.612Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
     {
@@ -37,10 +37,10 @@
       ],
       "stars": 0,
       "forks": 1,
-      "size": 5595,
+      "size": 8350,
       "createdAt": "2026-08-18T03:48:20Z",
-      "updatedAt": "2026-09-28T01:47:48Z",
-      "pushedAt": "2026-09-28T01:48:27Z"
+      "updatedAt": "2026-10-02T00:06:57Z",
+      "pushedAt": "2026-10-02T00:07:45Z"
     },
     {
       "id": "immcrab/owen-card",
@@ -237,6 +237,23 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/owenlee-portfolio-3d",
+      "name": "owenlee-portfolio-3d",
+      "fullName": "immcrab/owenlee-portfolio-3d",
+      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
+      "homepage": null,
+      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 52,
+      "createdAt": "2026-07-24T00:48:51Z",
+      "updatedAt": "2026-09-28T17:10:53Z",
+      "pushedAt": "2026-09-28T17:10:49Z"
+    },
+    {
       "id": "immcrab/scribbleai-maintenance",
       "name": "scribbleai-maintenance",
       "fullName": "immcrab/scribbleai-maintenance",
@@ -252,23 +269,6 @@
       "createdAt": "2026-09-13T23:37:31Z",
       "updatedAt": "2026-09-21T16:55:12Z",
       "pushedAt": "2026-09-21T16:55:07Z"
-    },
-    {
-      "id": "immcrab/owenlee-portfolio-3d",
-      "name": "owenlee-portfolio-3d",
-      "fullName": "immcrab/owenlee-portfolio-3d",
-      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
-      "homepage": null,
-      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 51,
-      "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-09-21T15:29:13Z",
-      "pushedAt": "2026-09-21T15:29:09Z"
     },
     {
       "id": "immcrab/lucide-mirror",
