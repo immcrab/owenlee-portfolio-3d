@@ -1,6 +1,6 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-10-12T18:22:04.622Z",
+  "generatedAt": "2026-10-19T16:01:07.463Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
     {
@@ -19,28 +19,6 @@
       "createdAt": "2026-09-09T23:40:43Z",
       "updatedAt": "2026-09-14T00:27:15Z",
       "pushedAt": "2026-09-14T00:27:11Z"
-    },
-    {
-      "id": "immcrab/scribble",
-      "name": "scribble",
-      "fullName": "immcrab/scribble",
-      "url": "https://github.com/immcrab/scribble",
-      "homepage": "https://lofin.dev/",
-      "description": "lofin — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
-      "aiSummary": "lofin — a polished AI playground (Battle/Agent/Side-by-Side/Direct modes) with a Cloudflare Worker proxy for xKiro, Groq, Mistral, and Gemini.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "claude",
-        "lofin",
-        "scribble"
-      ],
-      "stars": 0,
-      "forks": 1,
-      "size": 6304,
-      "createdAt": "2026-08-18T03:48:20Z",
-      "updatedAt": "2026-10-12T01:20:37Z",
-      "pushedAt": "2026-10-12T01:20:33Z"
     },
     {
       "id": "immcrab/owen-card",
@@ -237,6 +215,23 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/lucide-mirror",
+      "name": "lucide-mirror",
+      "fullName": "immcrab/lucide-mirror",
+      "url": "https://github.com/immcrab/lucide-mirror",
+      "homepage": null,
+      "description": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
+      "aiSummary": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
+      "language": "Shell",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 686,
+      "createdAt": "2026-09-12T18:40:34Z",
+      "updatedAt": "2026-10-13T13:23:18Z",
+      "pushedAt": "2026-10-13T13:23:14Z"
+    },
+    {
       "id": "immcrab/owenlee-portfolio-3d",
       "name": "owenlee-portfolio-3d",
       "fullName": "immcrab/owenlee-portfolio-3d",
@@ -250,8 +245,8 @@
       "forks": 0,
       "size": 53,
       "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-10-05T17:35:26Z",
-      "pushedAt": "2026-10-05T17:35:21Z"
+      "updatedAt": "2026-10-12T18:22:09Z",
+      "pushedAt": "2026-10-12T18:22:05Z"
     },
     {
       "id": "immcrab/scribbleai-maintenance",
@@ -269,23 +264,6 @@
       "createdAt": "2026-09-13T23:37:31Z",
       "updatedAt": "2026-09-21T16:55:12Z",
       "pushedAt": "2026-09-21T16:55:07Z"
-    },
-    {
-      "id": "immcrab/lucide-mirror",
-      "name": "lucide-mirror",
-      "fullName": "immcrab/lucide-mirror",
-      "url": "https://github.com/immcrab/lucide-mirror",
-      "homepage": null,
-      "description": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
-      "aiSummary": "Mirror of s3.amazonaws.com/lucidestatic, auto-synced every 6h",
-      "language": "Shell",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 512,
-      "createdAt": "2026-09-12T18:40:34Z",
-      "updatedAt": "2026-09-21T02:56:36Z",
-      "pushedAt": "2026-09-21T02:56:32Z"
     },
     {
       "id": "immcrab/ghostlinkhub",
@@ -524,6 +502,23 @@
       "createdAt": "2026-07-25T02:39:14Z",
       "updatedAt": "2026-07-25T02:39:18Z",
       "pushedAt": "2026-07-25T02:39:15Z"
+    },
+    {
+      "id": "immcrab/owenlee-xyz",
+      "name": "owenlee-xyz",
+      "fullName": "immcrab/owenlee-xyz",
+      "url": "https://github.com/immcrab/owenlee-xyz",
+      "homepage": null,
+      "description": "3D scrollytelling portfolio site for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries via Mistral.",
+      "aiSummary": "3D scrollytelling portfolio site for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries via Mistral.",
+      "language": null,
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 0,
+      "createdAt": "2026-07-24T01:36:58Z",
+      "updatedAt": "2026-07-24T01:37:03Z",
+      "pushedAt": "2026-07-24T01:36:59Z"
     }
   ]
 }
