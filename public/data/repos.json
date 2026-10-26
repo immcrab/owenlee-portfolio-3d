@@ -1,6 +1,6 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-10-19T16:01:07.463Z",
+  "generatedAt": "2026-10-26T15:37:56.212Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
     {
@@ -19,6 +19,30 @@
       "createdAt": "2026-09-09T23:40:43Z",
       "updatedAt": "2026-09-14T00:27:15Z",
       "pushedAt": "2026-09-14T00:27:11Z"
+    },
+    {
+      "id": "immcrab/ScribbleAI",
+      "name": "ScribbleAI",
+      "fullName": "immcrab/ScribbleAI",
+      "url": "https://github.com/immcrab/ScribbleAI",
+      "homepage": "https://scribbleai.dev/",
+      "description": "ScribbleAI Is a AI development website that utilizes Groq, DeepSeek, GPT 4.0, and more to make the best websites for free. Made single handedly By Owen Lee ",
+      "aiSummary": "ScribbleAI Is a AI development website that utilizes Groq, DeepSeek, GPT 4.0, and more to make the best websites for free. Made single handedly By Owen Lee ",
+      "language": "HTML",
+      "topics": [
+        "gemini",
+        "github-api",
+        "gpt4",
+        "groq",
+        "owen-lee",
+        "scribbleai"
+      ],
+      "stars": 1,
+      "forks": 0,
+      "size": 1523,
+      "createdAt": "2026-05-30T00:22:00Z",
+      "updatedAt": "2026-10-22T22:56:05Z",
+      "pushedAt": "2026-08-18T04:26:50Z"
     },
     {
       "id": "immcrab/owen-card",
@@ -70,30 +94,6 @@
       "createdAt": "2026-09-07T01:56:29Z",
       "updatedAt": "2026-09-07T02:15:41Z",
       "pushedAt": "2026-09-07T02:15:37Z"
-    },
-    {
-      "id": "immcrab/ScribbleAI",
-      "name": "ScribbleAI",
-      "fullName": "immcrab/ScribbleAI",
-      "url": "https://github.com/immcrab/ScribbleAI",
-      "homepage": "https://scribbleai.dev/",
-      "description": "ScribbleAI Is a AI development website that utilizes Groq, DeepSeek, GPT 4.0, and more to make the best websites for free. Made single handedly By Owen Lee ",
-      "aiSummary": "ScribbleAI Is a AI development website that utilizes Groq, DeepSeek, GPT 4.0, and more to make the best websites for free. Made single handedly By Owen Lee ",
-      "language": "HTML",
-      "topics": [
-        "gemini",
-        "github-api",
-        "gpt4",
-        "groq",
-        "owen-lee",
-        "scribbleai"
-      ],
-      "stars": 0,
-      "forks": 0,
-      "size": 1523,
-      "createdAt": "2026-05-30T00:22:00Z",
-      "updatedAt": "2026-08-18T04:26:57Z",
-      "pushedAt": "2026-08-18T04:26:50Z"
     },
     {
       "id": "immcrab/plug-control",
@@ -215,6 +215,23 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/owenlee-portfolio-3d",
+      "name": "owenlee-portfolio-3d",
+      "fullName": "immcrab/owenlee-portfolio-3d",
+      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
+      "homepage": null,
+      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 55,
+      "createdAt": "2026-07-24T00:48:51Z",
+      "updatedAt": "2026-10-19T16:01:12Z",
+      "pushedAt": "2026-10-19T16:01:08Z"
+    },
+    {
       "id": "immcrab/lucide-mirror",
       "name": "lucide-mirror",
       "fullName": "immcrab/lucide-mirror",
@@ -230,23 +247,6 @@
       "createdAt": "2026-09-12T18:40:34Z",
       "updatedAt": "2026-10-13T13:23:18Z",
       "pushedAt": "2026-10-13T13:23:14Z"
-    },
-    {
-      "id": "immcrab/owenlee-portfolio-3d",
-      "name": "owenlee-portfolio-3d",
-      "fullName": "immcrab/owenlee-portfolio-3d",
-      "url": "https://github.com/immcrab/owenlee-portfolio-3d",
-      "homepage": null,
-      "description": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "aiSummary": "3D scroll-driven portfolio for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries powered by Mistral.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 53,
-      "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-10-12T18:22:09Z",
-      "pushedAt": "2026-10-12T18:22:05Z"
     },
     {
       "id": "immcrab/scribbleai-maintenance",
