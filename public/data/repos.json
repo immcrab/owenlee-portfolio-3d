@@ -1,6 +1,6 @@
 {
   "owner": "immcrab",
-  "generatedAt": "2026-11-02T18:59:30.172Z",
+  "generatedAt": "2026-11-09T19:20:52.236Z",
   "generatedBy": "fallback (no MISTRAL_API_KEY set)",
   "repos": [
     {
@@ -147,6 +147,23 @@
       "pushedAt": "2025-12-05T03:04:03Z"
     },
     {
+      "id": "immcrab/specter",
+      "name": "specter",
+      "fullName": "immcrab/specter",
+      "url": "https://github.com/immcrab/specter",
+      "homepage": null,
+      "description": "Specter - free proxy browser with a self-hosted game library",
+      "aiSummary": "Specter - free proxy browser with a self-hosted game library",
+      "language": "HTML",
+      "topics": [],
+      "stars": 0,
+      "forks": 1,
+      "size": 384959,
+      "createdAt": "2026-11-08T20:34:14Z",
+      "updatedAt": "2026-11-08T23:48:58Z",
+      "pushedAt": "2026-11-08T23:48:54Z"
+    },
+    {
       "id": "immcrab/GorillaRPC",
       "name": "GorillaRPC",
       "fullName": "immcrab/GorillaRPC",
@@ -215,6 +232,23 @@
       "pushedAt": "2025-09-20T01:14:20Z"
     },
     {
+      "id": "immcrab/TikTokBubbles-site",
+      "name": "TikTokBubbles-site",
+      "fullName": "immcrab/TikTokBubbles-site",
+      "url": "https://github.com/immcrab/TikTokBubbles-site",
+      "homepage": null,
+      "description": "Website for the TikTokBubbles Gorilla Tag mod",
+      "aiSummary": "Website for the TikTokBubbles Gorilla Tag mod",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 178,
+      "createdAt": "2026-11-03T00:40:26Z",
+      "updatedAt": "2026-11-03T00:59:22Z",
+      "pushedAt": "2026-11-03T00:59:18Z"
+    },
+    {
       "id": "immcrab/owenlee-portfolio-3d",
       "name": "owenlee-portfolio-3d",
       "fullName": "immcrab/owenlee-portfolio-3d",
@@ -226,10 +260,10 @@
       "topics": [],
       "stars": 0,
       "forks": 0,
-      "size": 55,
+      "size": 56,
       "createdAt": "2026-07-24T00:48:51Z",
-      "updatedAt": "2026-10-26T15:38:01Z",
-      "pushedAt": "2026-10-26T15:37:57Z"
+      "updatedAt": "2026-11-02T18:59:36Z",
+      "pushedAt": "2026-11-02T18:59:31Z"
     },
     {
       "id": "immcrab/lucide-mirror",
@@ -419,6 +453,23 @@
       "pushedAt": "2026-07-23T23:34:27Z"
     },
     {
+      "id": "immcrab/ghostlink",
+      "name": "ghostlink",
+      "fullName": "immcrab/ghostlink",
+      "url": "https://github.com/immcrab/ghostlink",
+      "homepage": "https://immcrab.github.io/ghostlink/",
+      "description": null,
+      "aiSummary": "No description available yet.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 0,
+      "forks": 1,
+      "size": 8551,
+      "createdAt": "2026-04-24T21:59:15Z",
+      "updatedAt": "2026-05-22T16:12:09Z",
+      "pushedAt": "2026-05-22T16:12:02Z"
+    },
+    {
       "id": "immcrab/unblocked-games",
       "name": "unblocked-games",
       "fullName": "immcrab/unblocked-games",
@@ -468,57 +519,6 @@
       "createdAt": "2025-09-06T19:52:08Z",
       "updatedAt": "2025-09-06T19:53:07Z",
       "pushedAt": "2025-09-06T19:53:04Z"
-    },
-    {
-      "id": "immcrab/Gear-Painter-Program",
-      "name": "Gear-Painter-Program",
-      "fullName": "immcrab/Gear-Painter-Program",
-      "url": "https://github.com/immcrab/Gear-Painter-Program",
-      "homepage": null,
-      "description": "a mod that give u all cosmetics ever",
-      "aiSummary": "a mod that give u all cosmetics ever",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 1610,
-      "createdAt": "2025-06-11T13:35:55Z",
-      "updatedAt": "2025-06-11T13:39:55Z",
-      "pushedAt": "2025-06-11T13:39:51Z"
-    },
-    {
-      "id": "immcrab/hypcolen",
-      "name": "hypcolen",
-      "fullName": "immcrab/hypcolen",
-      "url": "https://github.com/immcrab/hypcolen",
-      "homepage": null,
-      "description": "Static AI Playground - client-side chat UI with theming, IndexedDB storage",
-      "aiSummary": "Static AI Playground - client-side chat UI with theming, IndexedDB storage",
-      "language": null,
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 0,
-      "createdAt": "2026-07-25T02:39:14Z",
-      "updatedAt": "2026-07-25T02:39:18Z",
-      "pushedAt": "2026-07-25T02:39:15Z"
-    },
-    {
-      "id": "immcrab/owenlee-xyz",
-      "name": "owenlee-xyz",
-      "fullName": "immcrab/owenlee-xyz",
-      "url": "https://github.com/immcrab/owenlee-xyz",
-      "homepage": null,
-      "description": "3D scrollytelling portfolio site for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries via Mistral.",
-      "aiSummary": "3D scrollytelling portfolio site for owenlee.xyz — showcases immcrab's GitHub repos with AI-generated summaries via Mistral.",
-      "language": null,
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 0,
-      "createdAt": "2026-07-24T01:36:58Z",
-      "updatedAt": "2026-07-24T01:37:03Z",
-      "pushedAt": "2026-07-24T01:36:59Z"
     }
   ]
 }
